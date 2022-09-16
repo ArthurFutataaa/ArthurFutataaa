@@ -23,6 +23,6 @@
   <a href="https://instagram.com/Tutzfutata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthur302508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/ArthurFutataaa/ArthurFutata/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ArthurFutataaa/ArthurFutataaa/blob/output/github-contribution-grid-snake.svg)
   
   </div>
