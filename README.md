@@ -1,6 +1,6 @@
 ### Olá eu sou o Arthur
 
-- 🌱 Hoje estudo HTML, CSS, JQuery and PHP.
+- 🌱 Hoje estudo HTML, CSS, JQuery e PHP.
 
 <div align="center">
   <a href="https://github.com/ArthurFutataaa">
